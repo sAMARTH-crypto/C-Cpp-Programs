@@ -10,7 +10,7 @@ int LCM(int x, int y)
 		if (L%x == 0 & L%y == 0)
 		{
 
-			cout<<L;
+			return L;
 			break;
 			
 		}
